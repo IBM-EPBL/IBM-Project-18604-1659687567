@@ -8,3 +8,4 @@
 [Click here](https://github.com/IBM-EPBL/IBM-Project-18604-1659687567/blob/main/Final%20Deliverables/Demonstration%20Video/IBM%20PROJECT.mp4)
 
 # Project Documentation
+[Click here](https://github.com/IBM-EPBL/IBM-Project-18604-1659687567/blob/main/Final%20Deliverables/Final%20Report/IBM-Project-18604-1659687567.pdf)
